@@ -117,3 +117,4 @@ us-county-health-analytics/
 **Utilities**
 - tqdm>=4.64.0         # Progress bars
 - joblib>=1.2.0        # Parallel processing
+<img width="731" height="425" alt="image" src="https://github.com/user-attachments/assets/1a32bfaf-d029-4db5-b786-0e7d99c2aaf8" />
