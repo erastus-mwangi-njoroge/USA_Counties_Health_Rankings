@@ -96,24 +96,24 @@ us-county-health-analytics/
 ```
 ---
 ## 📦 Dependencies
-- ** Data Processing**
+**Data Processing**
 - pandas>=1.5.0        # Data manipulation
 - numpy>=1.21.0        # Numerical computations
 - scipy>=1.9.0         # Statistical functions
 
-- ** Machine Learning & Analysis**
+**Machine Learning & Analysis**
 - scikit-learn>=1.0.0  # Clustering and ML
 - statsmodels>=0.13.0  # Statistical modeling
 
-- ** Visualization**
+**Visualization**
 - matplotlib>=3.5.0    # Static plotting
 - seaborn>=0.11.0      # Statistical visualizations
 - plotly>=5.10.0       # Interactive visualizations
 
-- ** Geographic**
+**Geographic**
 - geopandas>=0.12.0    # Geographic data handling
 - folium>=0.14.0       # Leaflet maps
 
-- ** Utilities **
+**Utilities**
 - tqdm>=4.64.0         # Progress bars
 - joblib>=1.2.0        # Parallel processing
