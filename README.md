@@ -94,6 +94,7 @@ us-county-health-analytics/
 ├── LICENSE                            # MIT License
 └── README.md                          # This file
 
+---
 ## 📦 Dependencies
 - ** Data Processing**
 - pandas>=1.5.0        # Data manipulation
